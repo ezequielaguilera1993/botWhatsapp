@@ -1,6 +1,6 @@
 # BOT Whatsapp Gratis
 
-Hola amigos este BOT se realizo en vivo en mi canal de Youtube si quieres ver como se hizo __Subscribete__
+BOT de WhatsApp adaptado hecho en base a un tutorial de
 [https://www.youtube.com/leifermendez](https://www.youtube.com/leifermendez)
 
 🤖 Link video https://www.youtube.com/watch?v=A_Xu0OR_HkE
