@@ -1,4 +1,4 @@
-# BOT Whatsapp Gratis
+# BOT Adaptado
 
 BOT de WhatsApp adaptado hecho en base a un tutorial de
 [https://www.youtube.com/leifermendez](https://www.youtube.com/leifermendez)
