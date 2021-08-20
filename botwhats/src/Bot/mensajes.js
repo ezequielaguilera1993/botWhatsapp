@@ -24,7 +24,7 @@ Acceda a este enlace https://docs.google.com/document/d/1H8DsbU-qfeIijVni4zrfG_N
 const info2 = `*2) Inscripción paga (con certificado)*
 Debe abonar los certificados que desee y luego sumarse a los cursos
 *Modelos de Certificado* https://photos.app.goo.gl/Grm54bW161weeXB26
-*Promoción por pre-inscripción (hasta el viernes inclusive)*
+*Promoción por pre-inscripción (hasta el lunes ${domingo + 1} inclusive)*
 • *Un (1)* Certificado *${certiX1}$* https://mpago.la/2pwTDcY
 • *Dos (2)* Certificados *${certiX2}$* (${certiX2 / 2}$ cada certificado)* ➤https://mpago.la/1noxX9Y
 • *Tres (3)* Certificados *${certiX3}$* (${certiX3 / 3}$ cada certificado)* ➤https://mpago.la/2RKS4fA
@@ -70,11 +70,11 @@ const info4 = `*4) Por cada curso de dictará una clase virtual, luego deberan r
 
 2• *RCP en Bebés* Sábado ${sabado} a las 18hs
 
-3• *Maniobra de Heimlich en Bebés* (para asistir en caso de atragantamiento) Sábado ${sabado} a las 20hs
+3• *Maniobra de Heimlich en Bebés* (para asistir en caso de atragantamiento) Sábado ${sabado} a las 21hs
 
 4• *RCP en Adultos* Domingo ${domingo} a las 18hs
 
-5• *Maniobra de Heimlich en adultos* (para asistir en caso de atragantamiento) Domingo ${domingo} a las 20hs
+5• *Maniobra de Heimlich en adultos* (para asistir en caso de atragantamiento) Domingo ${domingo} a las 21hs
 `
 
 
@@ -103,7 +103,7 @@ ${opciones}
 
 
 
-const ultimoMensaje = `*🤖 Si le quedó una duda envieme un mensaje con algunos de las siguientes opcines para tener mas informacion*
+const ultimoMensaje = `*🤖 Si le quedó una duda envieme un mensaje con algunos de las siguientes opciones para tener mas informacion*
 
 _Escriba a los números sin letras o números adicionales, luego envie el mensaje y le llegara la info que precisa._
         

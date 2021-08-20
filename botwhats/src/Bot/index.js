@@ -112,6 +112,7 @@ const replyAsk = (from, answer) => new Promise(async (resolve, reject) => {
  "${answer}"\n`)
 
     answer = answer.toLowerCase()
+
     if (answer === 'instructor' || answer === 'intructor' || answer === 'ezequiel' || answer === 'instrutor') {
         sendMessage(from, respuestInstructor)
     }
@@ -155,6 +156,11 @@ const replyAsk = (from, answer) => new Promise(async (resolve, reject) => {
         await sendMessage(from, `*Modelos de certificados*
 https://photos.app.goo.gl/Grm54bW161weeXB26`)
         await sendMessage(ultimoMensaje)
+
+    }
+
+    else if (answer === "cin" || answer == "cinthya" || answer == "mi amor" || answer == "eze mi amor" || answer == "eze mí amor" || answer == "mí amor") {
+        await sendMessage(from, "Hola Cin hermosa ❤. ¿Como estás?")
 
     }
 
